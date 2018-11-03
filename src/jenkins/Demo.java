@@ -9,7 +9,7 @@ package jenkins;
  *
  * @author Amr Elkady
  */
-public class Jenkins {
+public class Demo {
 
     /**
      * @param args the command line arguments
