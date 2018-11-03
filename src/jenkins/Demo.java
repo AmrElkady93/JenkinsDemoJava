@@ -19,7 +19,7 @@ public class Demo {
        for(int i =1;i<=10;i++)
        {
            System.out.println("i am no."+i);
-           v;
+           System.out.println(5/0);
        }
         
         
