@@ -16,8 +16,8 @@ public class Demo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello Java intake 39");
-       // System.out.println(5/0);
+        System.out.println("Hello Abdelkrem");
+       System.out.println(5/0);
         
         
        
